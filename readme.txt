@@ -1,22 +1,22 @@
-ÊµÑéÆ÷²Ä:
-	Mini STM32F103 V3¿ª·¢°å
+å®žéªŒå™¨æ:
+	STm32f103zet6 V4 å¼€å‘æ¿
 	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°Ê¹ÓÃFreeRTOSµÄ¶¯Ì¬ÈÎÎñ´´½¨ xTaskCreate()ºÍÈÎÎñÉ¾³ýº¯ÊývTaskDelete()¡£
+å®žéªŒç›®çš„:
+	å­¦ä¹ ä½¿ç”¨FreeRTOSçš„åŠ¨æ€ä»»åŠ¡åˆ›å»º xTaskCreate()å’Œä»»åŠ¡åˆ é™¤å‡½æ•°vTaskDelete()ã€‚
 	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPA8)£¬DS1(Á¬½ÓÔÚPD2ÉÏ)
-	2,´®¿Ú1(²¨ÌØÂÊ:115200,PA9/PA10Á¬½ÓÔÚ°åÔØUSB×ª´®¿ÚÐ¾Æ¬CH340ÉÏÃæ) 
+ç¡¬ä»¶èµ„æº:
+	1,DS0(è¿žæŽ¥åœ¨PA8)ï¼ŒDS1(è¿žæŽ¥åœ¨PD2ä¸Š)
+	2,ä¸²å£1(æ³¢ç‰¹çŽ‡:115200,PA9/PA10è¿žæŽ¥åœ¨æ¿è½½USBè½¬ä¸²å£èŠ¯ç‰‡CH340ä¸Šé¢) 
 	
 	
-ÊµÑéÏÖÏó:
-	ÊµÑéÖÐ»á´´½¨Á½¸öÓ¦ÓÃÈÎÎñtask1_taskºÍtask2_task£¬µ±task1_taskÔËÐÐ
-	5´ÎÒÔºó¾Í»áÉ¾³ýµôÈÎÎñtask2_task¡£
+å®žéªŒçŽ°è±¡:
+	å®žéªŒä¸­ä¼šåˆ›å»ºä¸¤ä¸ªåº”ç”¨ä»»åŠ¡task1_taskå’Œtask2_taskï¼Œå½“task1_taskè¿è¡Œ
+	5æ¬¡ä»¥åŽå°±ä¼šåˆ é™¤æŽ‰ä»»åŠ¡task2_taskã€‚
 
-×¢ÒâÊÂÏî:
-	ÎÞ. 
+æ³¨æ„äº‹é¡¹:
+	æ— . 
 
-²Î¿¼×ÊÁÏ£ºSTM32F103 FreeRTOS¿ª·¢ÊÖ²á.pdf µÚÁùÕÂ
+å‚è€ƒèµ„æ–™ï¼šSTM32F103 FreeRTOSå¼€å‘æ‰‹å†Œ.pdf ç¬¬å…­ç« 
 
 
 
